@@ -1,0 +1,21 @@
+= % / * - + 
+length of stringstream input 17
+
+buffer log: 
+
+v
+va
+var
+var_
+var_1
+
+v
+va
+var
+var_
+var_2
+
+v
+va
+var
+var_
